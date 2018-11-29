@@ -1,5 +1,18 @@
 body {
     background-image: url('../images/triangle-2790346_1280.png');
     background-position: center center;
-    
+    font-family: 'Alice', 'Times New Roman', serif;
+}
+
+#background {
+    background-color: peachpuff;
+}
+
+#rose {
+    background-color: pink;
+}
+
+#randomNumber
+#totalScore {
+    color: red;
 }
