@@ -16,3 +16,8 @@ body {
 #totalScore {
     color: red;
 }
+
+.crystal-image {
+    width: 200px;
+    height: 200px;
+}
